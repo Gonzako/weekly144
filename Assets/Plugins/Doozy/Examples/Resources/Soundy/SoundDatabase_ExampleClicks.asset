@@ -880,8 +880,8 @@ MonoBehaviour:
     MinValue: 0
     MaxValue: 0
   Pitch:
-    MinValue: 0
-    MaxValue: 0
+    MinValue: 1.4
+    MaxValue: 1.4
   SpatialBlend: 0
   Loop: 0
   Mode: 0
